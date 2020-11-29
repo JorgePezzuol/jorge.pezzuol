@@ -5,8 +5,9 @@ Hi, I'm [Jorge Pezzuol](https://www.linkedin.com/in/jorge-pezzuol/), Full Stack 
 [![PHP](https://img.shields.io/badge/-PHP-fff?&logo=php&logoColor=336791)](https://github.com/jorgepezzuol?tab=repositories&q=&type=&language=php)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)](https://github.com/jorgepezzuol?tab=repositories&q=&type=&language=javascript)
 ![SQL](https://img.shields.io/badge/-SQL-fff?&logo=MySQL&logoColor=336791)
-![Swift](https://img.shields.io/badge/-Swift-fff?&logo=Swift)
+[![Swift](https://img.shields.io/badge/-Swift-fff?&logo=Swift)](https://github.com/jorgepezzuol?tab=repositories&q=&type=&language=swift)
 [![Dart](https://img.shields.io/badge/-Dart-fff?&logo=Dart&logoColor=336791)](https://github.com/jorgepezzuol?tab=repositories&q=&type=&language=Dart)
+![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=336791)
 
 ### Frameworks/Technologies
 
