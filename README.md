@@ -23,7 +23,7 @@ Hi, I'm [Jorge Pezzuol](https://www.linkedin.com/in/jorge-pezzuol/), Full Stack 
 ![Firebase](https://img.shields.io/badge/-Firebase-fff?&logo=firebase)
 ![Jira](https://img.shields.io/badge/-Jira-fff?&logo=jira-software&logoColor=0052CC)
 
-### Some study/personal projects
+### Some studies/personal projects
 
 [PokedexAPI](https://github.com/JorgePezzuol/mypokedex-api)
 
