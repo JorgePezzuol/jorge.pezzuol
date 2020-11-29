@@ -37,7 +37,7 @@ I also enjoy learning new languages, currently I am able to speak 🇧🇷, :it:
 
 ### Reach me on
 
-<p align="center">
+<p>
   <a target="_blank"href="https://www.linkedin.com/in/jorge-pezzuol/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
