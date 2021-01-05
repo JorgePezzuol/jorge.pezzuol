@@ -26,7 +26,7 @@ Hi, I'm [Jorge Pezzuol](https://www.linkedin.com/in/jorge-pezzuol/), Full Stack 
 
 ### Some projects
 
-- Small project to practice API consumption with Vue
+- Small project to practice API consumption with Vue:
 [Code](https://github.com/JorgePezzuol/mypokedex) - https://mypokedex-jorge.netlify.app
 
 [O que jantar?](https://github.com/JorgePezzuol/oquevoujantar-app)
