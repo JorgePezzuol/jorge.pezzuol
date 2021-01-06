@@ -26,7 +26,7 @@ Hi, I'm [Jorge Pezzuol](https://www.linkedin.com/in/jorge-pezzuol/), Full Stack 
 
 ### Some projects
 
-[Mypokedex](https://mypokedex-jorge.netlify.app)
+[mypokedex](https://mypokedex-jorge.netlify.app)
 
 [O que jantar?](https://github.com/JorgePezzuol/oquevoujantar-app)
 
