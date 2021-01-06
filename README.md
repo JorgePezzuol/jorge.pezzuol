@@ -26,13 +26,13 @@ Hi, I'm [Jorge Pezzuol](https://www.linkedin.com/in/jorge-pezzuol/), Full Stack 
 
 ### Some projects
 
-[mypokedex](https://mypokedex-jorge.netlify.app)
+[mypokedex](https://mypokedex-jorge.netlify.app) (Small project to practice CSS, Vue and API consumption)
 
-[O que jantar?](https://github.com/JorgePezzuol/oquevoujantar-app)
+[O que jantar?](https://github.com/JorgePezzuol/oquevoujantar-app) (Flutter, PHP Lumen)
 
-[Whos that pokemon?](https://github.com/JorgePezzuol/whosthatpokemon)
+[Whos that pokemon?](https://github.com/JorgePezzuol/whosthatpokemon) (Swift, REST API)
 
-[Bombarco](https://github.com/JorgePezzuol/bombarco-old)
+[Bombarco](https://www.bombarco.com.br) (Nautical platform from 2014, PHP Yii 1.1, jQuery, MySQL, Wordpress, Vue)
 
 
 ### Reach me on
