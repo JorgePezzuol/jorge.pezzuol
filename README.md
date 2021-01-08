@@ -1,4 +1,6 @@
-Hi, I'm [Jorge Pezzuol](https://www.linkedin.com/in/jorge-pezzuol/), Full Stack Developer 🚀, currently working in Lisbon for an IT consulting company. I have some years as a software developer and also as a university professor in Brazil. I am currently studying mobile development with Swift, I also enjoy learning new languages, currently I am able to speak 🇧🇷, :it: and :uk: (currently studying :de:)
+Hi, I'm [Jorge Pezzuol](https://www.linkedin.com/in/jorge-pezzuol/), Full Stack Developer 🚀, currently working in Lisbon for an IT consulting company. I have some years as a software developer and also as a university professor in Brazil. I am currently studying mobile development with Swift.
+
+🇧🇷, :it: and :uk:
 
 ### Languages
 
