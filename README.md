@@ -39,13 +39,13 @@ Hi, I'm [Jorge Pezzuol](https://www.linkedin.com/in/jorge-pezzuol/), Full Stack 
 [Dribbble clone](https://github.com/JorgePezzuol/dribbble_clone) (Vue/Vuex, Bulma css, JWT, MySQL) - Under construction
 
 
-### More Projects
+### More Projects/Apps
 
-[O que jantar?](https://github.com/JorgePezzuol/oquevoujantar-app) (Small project to pick dinner and study: Flutter, PHP Lumen)
+[O que jantar?](https://github.com/JorgePezzuol/oquevoujantar-app) (Small app to pick dinner and study: Flutter, PHP Lumen)
 
-[Whos that pokemon?](https://github.com/JorgePezzuol/whosthatpokemon) (Small project to study Swift with API consumption)
+[Whos that pokemon?](https://github.com/JorgePezzuol/whosthatpokemon) (Small app to study Swift with API consumption)
 
-[Bullseye](https://github.com/JorgePezzuol/studying-ios-bullseye) (Studying Swift and UIKit)
+[Bullseye](https://github.com/JorgePezzuol/studying-ios-bullseye) (App - Studying Swift and UIKit)
 
 [Chrome Extension](https://github.com/JorgePezzuol/chrome-extension-ops) (Studying how to create chrome extensions)
 
