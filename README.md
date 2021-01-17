@@ -6,10 +6,9 @@ Hi, I'm [Jorge Pezzuol](https://www.linkedin.com/in/jorge-pezzuol/), Full Stack 
 
 [![PHP](https://img.shields.io/badge/-PHP-fff?&logo=php&logoColor=336791)](https://github.com/jorgepezzuol?tab=repositories&q=&type=&language=php)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)](https://github.com/jorgepezzuol?tab=repositories&q=&type=&language=javascript)
-![SQL](https://img.shields.io/badge/-SQL-fff?&logo=MySQL&logoColor=336791)
 [![Swift](https://img.shields.io/badge/-Swift-fff?&logo=Swift)](https://github.com/jorgepezzuol?tab=repositories&q=&type=&language=swift)
 [![Dart](https://img.shields.io/badge/-Dart-fff?&logo=Dart&logoColor=336791)](https://github.com/jorgepezzuol?tab=repositories&q=&type=&language=Dart)
-![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=336791)
+![SQL](https://img.shields.io/badge/-SQL-fff?&logo=MySQL&logoColor=336791)
 
 ### Frameworks/Technologies
 
@@ -26,15 +25,35 @@ Hi, I'm [Jorge Pezzuol](https://www.linkedin.com/in/jorge-pezzuol/), Full Stack 
 ![Firebase](https://img.shields.io/badge/-Firebase-fff?&logo=firebase)
 ![Jira](https://img.shields.io/badge/-Jira-fff?&logo=jira-software&logoColor=0052CC)
 
-### Some projects
+
+### Recent Projects
+
+[API practical test](https://github.com/JorgePezzuol/api-test) (Cool practical test for a Finnish company, Pure PHP 7x)
 
 [mypokedex](https://mypokedex-jorge.netlify.app) (Small project to practice CSS, Vue and API consumption)
 
-[O que jantar?](https://github.com/JorgePezzuol/oquevoujantar-app) (Flutter, PHP Lumen)
-
-[Whos that pokemon?](https://github.com/JorgePezzuol/whosthatpokemon) (Swift, REST API)
-
 [Bombarco](https://www.bombarco.com.br) (Nautical platform from 2014, PHP Yii 1.1, jQuery, MySQL, Wordpress, Vue)
+
+[Dribbble clone](https://github.com/JorgePezzuol/dribbble_clone) (Vue/Vuex, Bulma css, JWT, MySQL) - Under construction
+
+
+### More Projects
+
+[O que jantar?](https://github.com/JorgePezzuol/oquevoujantar-app) (Small project to pick dinner and study: Flutter, PHP Lumen)
+
+[Whos that pokemon?](https://github.com/JorgePezzuol/whosthatpokemon) (Small project to study Swift with API consumption)
+
+[Bullseye](https://github.com/JorgePezzuol/studying-ios-bullseye) (Studying Swift and UIKit)
+
+[Chrome Extension](https://github.com/JorgePezzuol/chrome-extension-ops) (Studying how to create chrome extensions)
+
+
+### Front-end Clone Projects
+
+[Nubank](https://github.com/JorgePezzuol/nubank-flutter) (Nubank(digital bank from Brazil) frontend clone with Flutter) - Under construction
+
+[Cool Login Page](https://github.com/JorgePezzuol/flutter-login-page) (Studying flutter frontend skills)
+
 
 
 ### Reach me on
