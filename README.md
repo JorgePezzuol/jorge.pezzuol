@@ -28,7 +28,7 @@ Hi, I'm [Jorge Pezzuol](https://www.linkedin.com/in/jorge-pezzuol/), Full Stack 
 
 ### Recent Projects
 
-[API practical test](https://github.com/JorgePezzuol/api-test) (Cool practical test for a Finnish company, Pure PHP 7x)
+[API practical test](https://github.com/JorgePezzuol/api-test){:target="_blank" rel="noopener"} (Cool practical test for a Finnish company, Pure PHP 7x)
 
 [mypokedex](https://mypokedex-jorge.netlify.app) (Small project to practice CSS, Vue and API consumption)
 
