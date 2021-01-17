@@ -50,7 +50,7 @@ Hi, I'm [Jorge Pezzuol](https://www.linkedin.com/in/jorge-pezzuol/), Full Stack 
 
 ### Frontend/Layout Clone Projects
 
-[Nubank](https://github.com/JorgePezzuol/nubank-flutter) (Nubank(digital bank from Brazil) frontend clone with Flutter) - Under construction
+[Nubank](https://github.com/JorgePezzuol/nubank-flutter) (Digital bank frontend clone with Flutter) - Under construction
 
 [Cool Login Page](https://github.com/JorgePezzuol/flutter-login-page) (Studying flutter frontend skills)
 
