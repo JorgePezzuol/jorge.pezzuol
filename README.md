@@ -57,6 +57,15 @@ Hi, I'm [Jorge Pezzuol](https://www.linkedin.com/in/jorge-pezzuol/), Full Stack 
 [Cool Login Page](https://github.com/JorgePezzuol/flutter-login-page) (Studying flutter frontend skills)
 
 
+✔ PostServiceTest: Get avg len per month (0.01s)
+✔ PostServiceTest: Get longest per month (0.00s)
+✔ PostServiceTest: Get total by week number (0.00s)
+✔ PostServiceTest: Get avg per user per month (0.00s)
+✔ SupermetricsServiceTest: Get token (0.26s)
+✔ SupermetricsServiceTest: Get all posts with multi curl (0.77s)
+✔ SupermetricsServiceTest: Get all posts with curl (3.35s)
+
+
 
 ### Reach me on
 
