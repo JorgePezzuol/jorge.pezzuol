@@ -48,7 +48,7 @@ Hi, I'm [Jorge Pezzuol](https://www.linkedin.com/in/jorge-pezzuol/), Full Stack 
 [Chrome Extension](https://github.com/JorgePezzuol/chrome-extension-ops) (Studying how to create chrome extensions)
 
 
-### Front-end Clone Projects
+### Frontend/Layout Clone Projects
 
 [Nubank](https://github.com/JorgePezzuol/nubank-flutter) (Nubank(digital bank from Brazil) frontend clone with Flutter) - Under construction
 
