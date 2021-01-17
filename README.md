@@ -41,7 +41,7 @@ Hi, I'm [Jorge Pezzuol](https://www.linkedin.com/in/jorge-pezzuol/), Full Stack 
 
 ### More Projects/Apps
 
-[O que jantar?](https://github.com/JorgePezzuol/oquevoujantar-app) (Small app to pick dinner and study: Flutter, PHP Lumen)
+[Dinner picker](https://github.com/JorgePezzuol/oquevoujantar-app) (Small app to pick dinner: Flutter, PHP Lumen)
 
 [Whos that pokemon?](https://github.com/JorgePezzuol/whosthatpokemon) (Small app to study Swift with API consumption)
 
