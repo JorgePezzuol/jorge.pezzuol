@@ -26,7 +26,6 @@ Hi, I'm [Jorge Pezzuol](https://www.linkedin.com/in/jorge-pezzuol/), Full Stack 
 ![Jira](https://img.shields.io/badge/-Jira-fff?&logo=jira-software&logoColor=0052CC)
 ![Codeception](https://img.shields.io/badge/-Codeception-fff?&logo=codeception-software&logoColor=0052CC)
 ![XDebug](https://img.shields.io/badge/-xdebug-fff?&logo=xdebug-software&logoColor=0052CC)
-<hr/>
 
 
 ### Recent Projects
@@ -38,6 +37,7 @@ Hi, I'm [Jorge Pezzuol](https://www.linkedin.com/in/jorge-pezzuol/), Full Stack 
 [Bombarco](https://www.bombarco.com.br) (Nautical platform from 2014, PHP Yii 1.1, jQuery, MySQL, Wordpress, Vue)
 
 [Dribbble clone](https://github.com/JorgePezzuol/dribbble_clone) (Vue/Vuex, Bulma css, JWT, MySQL) - Under construction
+<hr/>
 
 
 ### More Projects/Apps
@@ -49,6 +49,7 @@ Hi, I'm [Jorge Pezzuol](https://www.linkedin.com/in/jorge-pezzuol/), Full Stack 
 [Bullseye](https://github.com/JorgePezzuol/studying-ios-bullseye) (App - Studying Swift and UIKit)
 
 [Chrome Extension](https://github.com/JorgePezzuol/chrome-extension-ops) (Studying how to create chrome extensions)
+<hr/>
 
 
 ### Frontend/Layout Clone Projects
@@ -56,6 +57,7 @@ Hi, I'm [Jorge Pezzuol](https://www.linkedin.com/in/jorge-pezzuol/), Full Stack 
 [Nubank](https://github.com/JorgePezzuol/nubank-flutter) (Digital bank frontend clone with Flutter) - Under construction
 
 [Cool Login Page](https://github.com/JorgePezzuol/flutter-login-page) (Studying flutter frontend skills)
+<hr/>
 
 
 
