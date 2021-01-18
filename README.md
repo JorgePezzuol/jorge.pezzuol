@@ -9,6 +9,7 @@ Hi, I'm [Jorge Pezzuol](https://www.linkedin.com/in/jorge-pezzuol/), Full Stack 
 [![Swift](https://img.shields.io/badge/-Swift-fff?&logo=Swift)](https://github.com/jorgepezzuol?tab=repositories&q=&type=&language=swift)
 [![Dart](https://img.shields.io/badge/-Dart-fff?&logo=Dart&logoColor=336791)](https://github.com/jorgepezzuol?tab=repositories&q=&type=&language=Dart)
 ![SQL](https://img.shields.io/badge/-SQL-fff?&logo=MySQL&logoColor=336791)
+<hr/>
 
 ### Frameworks/Technologies
 
