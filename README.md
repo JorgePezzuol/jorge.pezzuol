@@ -63,6 +63,7 @@ Hi, I'm [Jorge Pezzuol](https://www.linkedin.com/in/jorge-pezzuol/), Full Stack 
 [Cool Login Page](https://github.com/JorgePezzuol/flutter-login-page) (Studying flutter frontend skills)
 <hr/>
 
+[Wordpress freelance project](https://rekriarte.art.br)
 
 
 ### Reach me on
