@@ -29,7 +29,7 @@ Hi, I'm [Jorge Pezzuol](https://www.linkedin.com/in/jorge-pezzuol/), Full Stack 
 ![Jira](https://img.shields.io/badge/-Jira-fff?&logo=jira-software&logoColor=0052CC)
 ![Codeception](https://img.shields.io/badge/-Codeception-fff?&logo=codeception-software&logoColor=0052CC)
 ![XDebug](https://img.shields.io/badge/-xdebug-fff?&logo=xdebug-software&logoColor=0052CC)
-![Wordpress](https://img.shields.io/badge/-xdebug-fff?&logo=xdebug-software&logoColor=0052CC)
+![Wordpress](https://img.shields.io/badge/-wordpress-fff?&logo=wordpress-software&logoColor=0052CC)
 <hr/>
 
 
