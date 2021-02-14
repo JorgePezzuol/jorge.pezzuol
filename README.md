@@ -37,9 +37,11 @@ Hi, I'm [Jorge Pezzuol](https://www.linkedin.com/in/jorge-pezzuol/), Full Stack 
 
 <a href="https://github.com/JorgePezzuol/api-test" target="_blank">API practical test</a> (Cool practical test for a Finnish company, Pure PHP 7x)
 
-[mypokedex](https://mypokedex-jorge.netlify.app) (Small project to practice CSS, Vue and API consumption)
-
 [Bombarco](https://www.bombarco.com.br) (Nautical platform from 2014, PHP Yii 1.1, jQuery, MySQL, Wordpress, Vue)
+
+<a href="https://my-multiplayer-game.herokuapp.com/" target="_blank">Multiplayer Game</a> (Phaser 3, Socket IO, Node, WebRTC)
+
+[mypokedex](https://mypokedex-jorge.netlify.app) (Small project to practice CSS, Vue and API consumption)
 
 [Dribbble clone](https://github.com/JorgePezzuol/dribbble_clone) (Vue/Vuex, Bulma css, JWT, MySQL) - Under construction
 <hr/>
