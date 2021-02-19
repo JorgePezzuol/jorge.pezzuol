@@ -15,13 +15,12 @@ Hi, I'm [Jorge Pezzuol](https://www.linkedin.com/in/jorge-pezzuol/), Full Stack 
 
 ### Frameworks/Technologies
 
+![Vue](https://img.shields.io/badge/-Vue-fff?&logo=VueJs)
+![React](https://img.shields.io/badge/-React-fff?&logo=VueJs)
+![Node.js](https://img.shields.io/badge/-Node.js-fff?&logo=node.js)
 ![Laravel](https://img.shields.io/badge/-Laravel-fff?&logo=Laravel)
 ![Symfony](https://img.shields.io/badge/-Symfony-fff?&logo=Symfony&logoColor=black)
 ![Yii](https://img.shields.io/badge/-Yii-fff?&logo=Yii)
-![jQuery](https://img.shields.io/badge/-jQuery-fff?&logo=jQuery&logoColor=336791)
-![Vue](https://img.shields.io/badge/-VueJs-fff?&logo=VueJs)
-![React](https://img.shields.io/badge/-ReactJs-fff?&logo=VueJs)
-![Node.js](https://img.shields.io/badge/-Node.js-fff?&logo=node.js)
 ![Flutter](https://img.shields.io/badge/-Flutter-fff?&logo=Flutter&logoColor=0052CC)
 ![Cordova](https://img.shields.io/badge/-Cordova-fff?&logo=Cordova)
 ![Docker](https://img.shields.io/badge/-Docker-fff?&logo=Docker)
