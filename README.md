@@ -39,7 +39,7 @@ Hi, I'm [Jorge Pezzuol](https://www.linkedin.com/in/jorge-pezzuol/), Full Stack 
 
 [Bombarco](https://www.bombarco.com.br) (Nautical platform from 2014, PHP Yii 1.1, jQuery, MySQL, Wordpress, Vue)
 
-<a href="https://my-multiplayer-game.herokuapp.com/" target="_blank">Multiplayer Game</a> (Phaser 3, Socket IO, Node, WebRTC)
+<a href="https://my-multiplayer-game.herokuapp.com/" target="_blank">Multiplayer Chat/Game</a> (Phaser 3, Socket IO, Node, WebRTC)
 
 [mypokedex](https://mypokedex-jorge.netlify.app) (Small project to practice CSS, Vue and API consumption)
 
