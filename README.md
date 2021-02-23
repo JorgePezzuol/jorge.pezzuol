@@ -41,6 +41,8 @@ Hi, I'm [Jorge Pezzuol](https://www.linkedin.com/in/jorge-pezzuol/), Full Stack 
 
 <a href="https://my-multiplayer-game.herokuapp.com/" target="_blank">Multiplayer Chat/Game</a> (Phaser 3, Socket IO, Node, WebRTC)
 
+<a href="https://github.com/JorgePezzuol/my-todo-list" target="_blank">Simple React App</a>
+
 [mypokedex](https://mypokedex-jorge.netlify.app) (Small project to practice CSS, Vue and API consumption)
 
 [Dribbble clone](https://github.com/JorgePezzuol/dribbble_clone) (Vue/Vuex, Bulma css, JWT, MySQL) - Under construction
