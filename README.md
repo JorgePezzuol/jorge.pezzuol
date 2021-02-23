@@ -1,4 +1,4 @@
-Hi, I'm [Jorge Pezzuol](https://www.linkedin.com/in/jorge-pezzuol/), Full Stack Developer 🚀. I have some years as a software developer and also as a university professor in Brazil - into LAMP and MERN Stacks
+Hi, I'm [Jorge Pezzuol](https://www.linkedin.com/in/jorge-pezzuol/), Fullstack Developer 🚀. I have some years as a software developer and also as a university professor in Brazil - into LAMP and MERN Stacks
 
 🇧🇷 :it: :uk:
 
