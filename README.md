@@ -41,7 +41,7 @@ Hi, I'm [Jorge Pezzuol](https://www.linkedin.com/in/jorge-pezzuol/), Full Stack 
 
 <a href="https://adoring-ardinghelli-e83f94.netlify.app" target="_blank">Multiplayer Chat/Game</a> (Phaser 3, Socket IO, Node, WebRTC)
 
-<a href="https://adoring-ardinghelli-e83f94.netlify.app" target="_blank">Simple React App (Studying Hooks)</a>
+<a href="https://adoring-ardinghelli-e83f94.netlify.app" target="_blank">Simple React App</a> (Studying Hooks)
 
 [mypokedex](https://mypokedex-jorge.netlify.app) (Small project to practice CSS, Vue and API consumption)
 
