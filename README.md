@@ -24,12 +24,10 @@ Hi, I'm [Jorge Pezzuol](https://www.linkedin.com/in/jorge-pezzuol/), Fullstack D
 ![Flutter](https://img.shields.io/badge/-Flutter-fff?&logo=Flutter&logoColor=0052CC)
 ![Cordova](https://img.shields.io/badge/-Cordova-fff?&logo=Cordova)
 ![Docker](https://img.shields.io/badge/-Docker-fff?&logo=Docker)
-![AngularJs](https://img.shields.io/badge/-AngularJs-fff?&logo=AngularJs&logoColor=red)
 ![Firebase](https://img.shields.io/badge/-Firebase-fff?&logo=firebase)
 ![Jira](https://img.shields.io/badge/-Jira-fff?&logo=jira-software&logoColor=0052CC)
 ![Codeception](https://img.shields.io/badge/-Codeception-fff?&logo=codeception-software&logoColor=0052CC)
 ![XDebug](https://img.shields.io/badge/-xdebug-fff?&logo=xdebug-software&logoColor=0052CC)
-![Wordpress](https://img.shields.io/badge/-wordpress-fff?&logo=wordpress-software&logoColor=0052CC)
 <hr/>
 
 
