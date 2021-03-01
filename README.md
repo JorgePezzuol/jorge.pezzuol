@@ -15,8 +15,8 @@ Hi, I'm [Jorge Pezzuol](https://www.linkedin.com/in/jorge-pezzuol/), Fullstack D
 
 ### Frameworks/Technologies
 
-![Vue](https://img.shields.io/badge/-Vue-fff?&logo=VueJs)
 ![React](https://img.shields.io/badge/-React-fff?&logo=VueJs)
+![Vue](https://img.shields.io/badge/-Vue-fff?&logo=VueJs)
 ![Node.js](https://img.shields.io/badge/-Node.js-fff?&logo=node.js)
 ![Laravel](https://img.shields.io/badge/-Laravel-fff?&logo=Laravel)
 ![Symfony](https://img.shields.io/badge/-Symfony-fff?&logo=Symfony&logoColor=black)
