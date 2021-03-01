@@ -33,17 +33,17 @@ Hi, I'm [Jorge Pezzuol](https://www.linkedin.com/in/jorge-pezzuol/), Fullstack D
 
 ### Recent Projects
 
-<a href="https://github.com/JorgePezzuol/api-test" target="_blank">API practical test</a> (Cool practical test for a Finnish company, Pure PHP 7x)
+<a href="https://github.com/JorgePezzuol/api-test" target="_blank">API practical test</a> (Cool practical test for a Finnish company, pure PHP 7x)
 
 [Bombarco](https://www.bombarco.com.br) (Nautical platform from 2014, PHP Yii 1.1, jQuery, MySQL, Wordpress, Vue)
 
-<a href="https://adoring-ardinghelli-e83f94.netlify.app" target="_blank">Multiplayer Chat/Game</a> (Phaser 3, Socket IO, Node, WebRTC)
+<a href="https://my-multiplayer-game.herokuapp.com" target="_blank">Multiplayer Chat/Game</a> (Phaser 3, Socket IO, Node, WebRTC)
 
 <a href="https://todolist-jorgepezzuol.netlify.app" target="_blank">Simple React App</a> (Studying Hooks)
 
 [mypokedex](https://mypokedex-jorge.netlify.app) (Small project to practice CSS, Vue and API consumption)
 
-[Dribbble clone](https://github.com/JorgePezzuol/dribbble_clone) (Vue/Vuex, Bulma css, JWT, MySQL) - Under construction
+[Post Reader SPA](https://github.com/JorgePezzuol/post-reader-spa) (Practical test - React & Styled Components)
 <hr/>
 
 
@@ -55,7 +55,7 @@ Hi, I'm [Jorge Pezzuol](https://www.linkedin.com/in/jorge-pezzuol/), Fullstack D
 
 [Bullseye](https://github.com/JorgePezzuol/studying-ios-bullseye) (App - Studying Swift and UIKit)
 
-[Chrome Extension](https://github.com/JorgePezzuol/chrome-extension-ops) (Studying how to create chrome extensions)
+[Dribbble clone](https://github.com/JorgePezzuol/dribbble_clone) (Vue/Vuex, Bulma css, JWT, MySQL) - Under construction
 <hr/>
 
 
