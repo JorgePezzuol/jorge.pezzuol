@@ -8,7 +8,6 @@ Hi, I'm [Jorge Pezzuol](https://www.linkedin.com/in/jorge-pezzuol/), Fullstack D
 
 [![PHP](https://img.shields.io/badge/-PHP-fff?&logo=php&logoColor=336791)](https://github.com/jorgepezzuol?tab=repositories&q=&type=&language=php)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)](https://github.com/jorgepezzuol?tab=repositories&q=&type=&language=javascript)
-[![Swift](https://img.shields.io/badge/-Swift-fff?&logo=Swift)](https://github.com/jorgepezzuol?tab=repositories&q=&type=&language=swift)
 [![Dart](https://img.shields.io/badge/-Dart-fff?&logo=Dart&logoColor=336791)](https://github.com/jorgepezzuol?tab=repositories&q=&type=&language=Dart)
 ![SQL](https://img.shields.io/badge/-SQL-fff?&logo=MySQL&logoColor=336791)
 <hr/>
@@ -18,6 +17,7 @@ Hi, I'm [Jorge Pezzuol](https://www.linkedin.com/in/jorge-pezzuol/), Fullstack D
 ![React](https://img.shields.io/badge/-React-fff?&logo=VueJs)
 ![Vue](https://img.shields.io/badge/-Vue-fff?&logo=VueJs)
 ![Node.js](https://img.shields.io/badge/-Node.js-fff?&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-fff?&logo=MongoDB)
 ![Laravel](https://img.shields.io/badge/-Laravel-fff?&logo=Laravel)
 ![Symfony](https://img.shields.io/badge/-Symfony-fff?&logo=Symfony&logoColor=black)
 ![Yii](https://img.shields.io/badge/-Yii-fff?&logo=Yii)
