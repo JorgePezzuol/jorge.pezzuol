@@ -33,7 +33,7 @@ Hi, I'm [Jorge Pezzuol](https://www.linkedin.com/in/jorge-pezzuol/), Fullstack D
 
 ### Recent Projects
 
-<a href="https://myindiecv.herokuapp.com/" target="_blank">Free CV maker</a> (React, Node, MongoDB)
+<a href="https://github.com/JorgePezzuol/myindiecv" target="_blank">Free CV maker</a> (React, Node, MongoDB)
 
 <a href="https://github.com/JorgePezzuol/api-test" target="_blank">API practical test</a> (Cool practical test for a Finnish company, pure PHP 7x)
 
