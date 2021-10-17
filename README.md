@@ -61,11 +61,11 @@ Hi, I'm [Jorge Pezzuol](https://www.linkedin.com/in/jorge-pezzuol/), Fullstack D
 <hr/>
 
 
-### Frontend/Layout Clone Projects
+### FrontendMentor Projects/Layout Clone Projects
 
-[Nubank](https://github.com/JorgePezzuol/nubank-flutter) (Digital bank frontend clone with Flutter) - Under construction
+[Stats Preview Card - Newbie](https://github.com/JorgePezzuol/frontendmentor_stats_preview_card_newbie) (CSS + Flex + Responsive skills)
 
-[Cool Login Page](https://github.com/JorgePezzuol/flutter-login-page) (Studying flutter frontend skills)
+[Calculator App - Intermediate](https://github.com/JorgePezzuol/frontendmentor_calculator_intermediate) (React, TS, Styled Components, Redux)
 
 [Wordpress freelance project](https://rekriarte.art.br)
 <hr/>
