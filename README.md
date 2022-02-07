@@ -15,19 +15,12 @@ Hi, I'm [Jorge Pezzuol](https://www.linkedin.com/in/jorge-pezzuol/), Fullstack D
 ### Frameworks/Technologies
 
 ![React](https://img.shields.io/badge/-React-fff?&logo=VueJs)
-![Vue](https://img.shields.io/badge/-Vue-fff?&logo=VueJs)
-![Node.js](https://img.shields.io/badge/-Node.js-fff?&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-fff?&logo=MongoDB)
 ![Laravel](https://img.shields.io/badge/-Laravel-fff?&logo=Laravel)
 ![Symfony](https://img.shields.io/badge/-Symfony-fff?&logo=Symfony&logoColor=black)
 ![Yii](https://img.shields.io/badge/-Yii-fff?&logo=Yii)
-![Flutter](https://img.shields.io/badge/-Flutter-fff?&logo=Flutter&logoColor=0052CC)
 ![Cordova](https://img.shields.io/badge/-Cordova-fff?&logo=Cordova)
-![Docker](https://img.shields.io/badge/-Docker-fff?&logo=Docker)
-![Firebase](https://img.shields.io/badge/-Firebase-fff?&logo=firebase)
-![Jira](https://img.shields.io/badge/-Jira-fff?&logo=jira-software&logoColor=0052CC)
 ![Codeception](https://img.shields.io/badge/-Codeception-fff?&logo=codeception-software&logoColor=0052CC)
-![XDebug](https://img.shields.io/badge/-xdebug-fff?&logo=xdebug-software&logoColor=0052CC)
 <hr/>
 
 
@@ -56,8 +49,6 @@ Hi, I'm [Jorge Pezzuol](https://www.linkedin.com/in/jorge-pezzuol/), Fullstack D
 [Whos that pokemon?](https://github.com/JorgePezzuol/whosthatpokemon) (Small app to study Swift/UIKit/Storyboards with API consumption)
 
 [Bullseye](https://github.com/JorgePezzuol/studying-ios-bullseye) (App - Studying Swift and UIKit)
-
-[Dribbble clone](https://github.com/JorgePezzuol/dribbble_clone) (Vue/Vuex, Bulma css, JWT, MySQL) - Under construction
 <hr/>
 
 
