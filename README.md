@@ -1,4 +1,4 @@
-Hi, I'm [Jorge Pezzuol](https://www.linkedin.com/in/jorge-pezzuol/), Fullstack Developer 🚀. I have some years as a software developer and also as a university professor in Brazil - into LAMP and MERN Stacks.
+Hi, I'm [Jorge Pezzuol](https://www.linkedin.com/in/jorge-pezzuol/). I have some years as a software engineer and also as a university professor in Brazil - into LAMP and MERN Stacks.
 
 🇧🇷 :it: :uk:
 
@@ -15,12 +15,11 @@ Hi, I'm [Jorge Pezzuol](https://www.linkedin.com/in/jorge-pezzuol/), Fullstack D
 ### Frameworks/Technologies
 
 ![React](https://img.shields.io/badge/-React-fff?&logo=VueJs)
-![MongoDB](https://img.shields.io/badge/-MongoDB-fff?&logo=MongoDB)
 ![Laravel](https://img.shields.io/badge/-Laravel-fff?&logo=Laravel)
 ![Symfony](https://img.shields.io/badge/-Symfony-fff?&logo=Symfony&logoColor=black)
 ![Yii](https://img.shields.io/badge/-Yii-fff?&logo=Yii)
 ![Cordova](https://img.shields.io/badge/-Cordova-fff?&logo=Cordova)
-![Codeception](https://img.shields.io/badge/-Codeception-fff?&logo=codeception-software&logoColor=0052CC)
+![MongoDB](https://img.shields.io/badge/-MongoDB-fff?&logo=MongoDB)
 <hr/>
 
 
