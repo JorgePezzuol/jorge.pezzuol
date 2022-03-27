@@ -5,23 +5,19 @@ Hi, I'm [Jorge Pezzuol](https://www.linkedin.com/in/jorge-pezzuol/). I have some
 
 
 ### Languages
-
-[![PHP](https://img.shields.io/badge/-PHP-fff?&logo=php&logoColor=336791)]
-[![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)](https://github.com/jorgepezzuol?tab=repositories&q=&type=&language=javascript)
-[![Typescript](https://img.shields.io/badge/-Typescript-fff?&logo=Typescript&logoColor=336791)](https://github.com/jorgepezzuol?tab=repositories&q=&type=&language=Typescript)
-![SQL](https://img.shields.io/badge/-SQL-fff?&logo=MySQL&logoColor=336791)
-<hr/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 
 ### Frameworks/Technologies
-
-![React](https://img.shields.io/badge/-React-fff?&logo=VueJs)
-![Laravel](https://img.shields.io/badge/-Laravel-fff?&logo=Laravel)
+![React](https://img.shields.io/badge/React-fff?logo=react&logoColor=61DAFB)
+![Laravel](https://img.shields.io/badge/Laravel-fff?logo=laravel&logoColor=red)
 ![Symfony](https://img.shields.io/badge/-Symfony-fff?&logo=Symfony&logoColor=black)
 ![Yii](https://img.shields.io/badge/-Yii-fff?&logo=Yii)
 ![Cordova](https://img.shields.io/badge/-Cordova-fff?&logo=Cordova)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-fff?&logo=MongoDB)
-<hr/>
 
+<hr/>
 
 ### Recent Projects
 
