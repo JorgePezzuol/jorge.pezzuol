@@ -6,7 +6,7 @@ Hi, I'm [Jorge Pezzuol](https://www.linkedin.com/in/jorge-pezzuol/). I have some
 
 ### Languages
 
-[![PHP](https://img.shields.io/badge/-PHP-fff?&logo=php&logoColor=336791)](https://github.com/jorgepezzuol?tab=repositories&q=&type=&language=php)
+[![PHP](https://img.shields.io/badge/-PHP-fff?&logo=php&logoColor=336791)]
 [![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)](https://github.com/jorgepezzuol?tab=repositories&q=&type=&language=javascript)
 [![Typescript](https://img.shields.io/badge/-Typescript-fff?&logo=Typescript&logoColor=336791)](https://github.com/jorgepezzuol?tab=repositories&q=&type=&language=Typescript)
 ![SQL](https://img.shields.io/badge/-SQL-fff?&logo=MySQL&logoColor=336791)
