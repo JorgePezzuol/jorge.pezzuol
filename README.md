@@ -13,9 +13,11 @@ Hi, I'm [Jorge Pezzuol](https://www.linkedin.com/in/jorge-pezzuol/). I have some
 ![React](https://img.shields.io/badge/React-fff?logo=react&logoColor=61DAFB)
 ![Laravel](https://img.shields.io/badge/Laravel-fff?logo=laravel&logoColor=red)
 ![Symfony](https://img.shields.io/badge/-Symfony-fff?&logo=Symfony&logoColor=black)
-![Yii](https://img.shields.io/badge/-Yii-fff?&logo=Yii)
-![Cordova](https://img.shields.io/badge/-Cordova-fff?&logo=Cordova)
+![CSS3](https://img.shields.io/badge/CSS3-fff?logo=css3&logoColor=blue)
+![MySQL](https://img.shields.io/badge/MySQL-fff?logo=mysql&logoColor=blue)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-fff?&logo=MongoDB)
+![Cordova](https://img.shields.io/badge/-ApacheCordova-fff?&logo=ApacheCordova&logoColor=black)
+![Yii](https://img.shields.io/badge/-Yii-fff?&logo=Yii)
 
 <hr/>
 
