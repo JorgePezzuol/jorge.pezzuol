@@ -1,64 +1,34 @@
 Hi, I'm [Jorge Pezzuol](https://www.linkedin.com/in/jorge-pezzuol/). I have some years as a software engineer and also as a university professor in Brazil - into LAMP and MERN Stacks.
 
-🇧🇷 :it: :uk:
+🇧🇷 :it: :uk: 🇫🇮
 
 
 
-### Languages
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-
-### Frameworks/Technologies
-![React](https://img.shields.io/badge/React-fff?logo=react&logoColor=61DAFB)
-![Laravel](https://img.shields.io/badge/Laravel-fff?logo=laravel&logoColor=red)
-![Symfony](https://img.shields.io/badge/-Symfony-fff?&logo=Symfony&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-fff?logo=css3&logoColor=blue)
-![MySQL](https://img.shields.io/badge/MySQL-fff?logo=mysql&logoColor=blue)
-![MongoDB](https://img.shields.io/badge/-MongoDB-fff?&logo=MongoDB)
-![Cordova](https://img.shields.io/badge/-ApacheCordova-fff?&logo=ApacheCordova&logoColor=black)
-![Yii](https://img.shields.io/badge/-Yii-fff?&logo=Yii)
-
+### Main Languages/Technologies
+- Typescript
+- React
+- PHP
 <hr/>
 
 ### Recent Projects
 
-<a href="https://github.com/JorgePezzuol/myindiecv" target="_blank">Free CV maker</a> (React, Node, MongoDB)
-
 <a href="https://github.com/JorgePezzuol/api-test" target="_blank">API practical test</a> (Cool practical test for a Finnish company, pure PHP 7x)
 
 [Bombarco](https://www.bombarco.com.br) (Nautical platform from 2014, PHP Yii 1.1, jQuery, MySQL, Wordpress, Vue)
-
-<a href="https://my-multiplayer-game.herokuapp.com" target="_blank">Multiplayer Chat/Game</a> (Phaser 3, Socket IO, Node, WebRTC)
-
-<a href="https://todolist-jorgepezzuol.netlify.app" target="_blank">Simple React App</a> (Studying Hooks)
 
 [mypokedex](https://mypokedex-jorge.netlify.app) (Small project to practice CSS, Vue and API consumption)
 
 [Post Reader SPA](https://github.com/JorgePezzuol/post-reader-spa) (Practical test - React & Styled Components)
 <hr/>
 
+### FrontendMentor Training Projects
 
-### More Projects/Apps
+[Stats Preview Card](https://github.com/JorgePezzuol/frontendmentor_stats_preview_card_newbie) (CSS + Flex + Responsive skills)
 
-[Dinner picker](https://github.com/JorgePezzuol/oquevoujantar-app) (Small app to pick dinner: Flutter, PHP Lumen)
-
-[Whos that pokemon?](https://github.com/JorgePezzuol/whosthatpokemon) (Small app to study Swift/UIKit/Storyboards with API consumption)
-
-[Bullseye](https://github.com/JorgePezzuol/studying-ios-bullseye) (App - Studying Swift and UIKit)
-<hr/>
-
-
-### FrontendMentor Projects/Layout Clone Projects
-
-[Stats Preview Card - Newbie](https://github.com/JorgePezzuol/frontendmentor_stats_preview_card_newbie) (CSS + Flex + Responsive skills)
-
-[Calculator App - Intermediate](https://github.com/JorgePezzuol/frontendmentor_calculator_intermediate) (React, TS, Styled Components, Redux)
+[Calculator App](https://github.com/JorgePezzuol/frontendmentor_calculator_intermediate) (React, TS, Styled Components, Redux)
 
 [Wordpress freelance project](https://rekriarte.art.br)
 <hr/>
-
-
 
 
 ### Reach me on
