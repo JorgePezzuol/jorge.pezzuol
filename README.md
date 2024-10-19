@@ -15,10 +15,6 @@ Hi, I'm [Jorge Pezzuol](https://www.linkedin.com/in/jorge-pezzuol/). I have some
 <a href="https://github.com/JorgePezzuol/api-test" target="_blank">API practical test</a> (Cool practical test for a Finnish company, pure PHP 7x)
 
 [Bombarco](https://www.bombarco.com.br) (Nautical platform from 2014, PHP Yii 1.1, jQuery, MySQL, Wordpress, Vue)
-
-[mypokedex](https://mypokedex-jorge.netlify.app) (Small project to practice CSS, Vue and API consumption)
-
-[Post Reader SPA](https://github.com/JorgePezzuol/post-reader-spa) (Practical test - React & Styled Components)
 <hr/>
 
 ### FrontendMentor Training Projects
